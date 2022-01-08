@@ -1,0 +1,2 @@
+# machine_learned_django-restAPI
+this website is AI based, what I did is just learn the system using anaconda and export and scale it as a .pkl file and use it in my django project, what the system does is just accept the input from the user such as its name, salary , marriage status, employment status and so on then the sytstem will tell the user wether the he/she is approved for the loan or rejected.
